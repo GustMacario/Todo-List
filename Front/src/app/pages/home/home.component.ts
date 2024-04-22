@@ -78,6 +78,7 @@ export class HomeComponent implements OnInit {
       .EditTodoTaskStatus(status, todoId)
       .subscribe((data: any) => {
         this.showModal = false;
+        this.selectedOption = undefined;
         this.GetTodoTasks();
       });
   }
@@ -97,6 +98,7 @@ export class HomeComponent implements OnInit {
 
   closeModal() {
     this.showModal = false;
+    this.selectedOption = undefined;
     this.GetTodoTasks();
   }
 
