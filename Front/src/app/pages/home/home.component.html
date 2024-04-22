@@ -1,0 +1,182 @@
+<div [ngClass]="showModal ? 'container blur' : 'container'">
+  <div class="board">
+    <a type="button" class="btn btn-dark" [routerLink]="['/CreateTodo']" >Criar nova tarefa</a>
+    <div class="board__lists">
+      <div class="list">
+        <h3>A Fazer</h3>
+        <div *ngFor="let todo of todos">
+          <ng-container *ngIf="todo.status === 1">
+            <div (click)="openModal(todo)" class="card">
+              <div class="card__top">
+                <span>{{ todo.name }}</span>
+                <div [ngClass]="todo.delayed ? 'delayed-tag' : 'dnone'"></div>
+              </div>
+              <div class="card__bottom">
+                <div *ngIf="todo.priority == 2" class="tag tag--high">Alta</div>
+                <div *ngIf="todo.priority == 1" class="tag tag--medium">
+                  Média
+                </div>
+                <div *ngIf="todo.priority == 0" class="tag tag--low">Baixa</div>
+                <span>{{ todo.createdAt }}</span>
+              </div>
+            </div>
+          </ng-container>
+        </div>
+      </div>
+      <div class="list">
+        <h3>Bloqueado</h3>
+        <div *ngFor="let todo of todos">
+          <ng-container *ngIf="todo.status === 0">
+            <div (click)="openModal(todo)" class="card">
+              <div class="card__top">
+                <span>{{ todo.name }}</span>
+                <div [ngClass]="todo.delayed ? 'delayed-tag' : 'dnone'"></div>
+              </div>
+              <div class="card__bottom">
+                <div *ngIf="todo.priority == 2" class="tag tag--high">Alta</div>
+                <div *ngIf="todo.priority == 1" class="tag tag--medium">
+                  Média
+                </div>
+                <div *ngIf="todo.priority == 0" class="tag tag--low">Baixa</div>
+                <span>{{ todo.createdAt }}</span>
+              </div>
+            </div>
+          </ng-container>
+        </div>
+      </div>
+      <div class="list">
+        <h3>Em progresso</h3>
+        <div *ngFor="let todo of todos">
+          <ng-container *ngIf="todo.status === 2">
+            <div (click)="openModal(todo)" class="card">
+              <div class="card__top">
+                <span>{{ todo.name }}</span>
+                <div [ngClass]="todo.delayed ? 'delayed-tag' : 'dnone'"></div>
+              </div>
+              <div class="card__bottom">
+                <div *ngIf="todo.priority == 2" class="tag tag--high">Alta</div>
+                <div *ngIf="todo.priority == 1" class="tag tag--medium">
+                  Média
+                </div>
+                <div *ngIf="todo.priority == 0" class="tag tag--low">Baixa</div>
+                <span>{{ todo.createdAt }}</span>
+              </div>
+            </div>
+          </ng-container>
+        </div>
+      </div>
+      <div class="list">
+        <h3>Concluído</h3>
+        <div *ngFor="let todo of todos">
+          <ng-container *ngIf="todo.status === 3">
+            <div (click)="openModal(todo)" class="card">
+              <div class="card__top">
+                <span>{{ todo.name }}</span>
+              </div>
+              <div class="card__bottom">
+                <div *ngIf="todo.priority == 2" class="tag tag--high">Alta</div>
+                <div *ngIf="todo.priority == 1" class="tag tag--medium">
+                  Média
+                </div>
+                <div *ngIf="todo.priority == 0" class="tag tag--low">Baixa</div>
+                <span>{{ todo.createdAt }}</span>
+              </div>
+            </div>
+          </ng-container>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div [ngClass]="!showModal ? 'dnone' : 'modal_box'">
+  <div class="modal_box_left">
+    <div class="modal__title">
+      <h1 style="height: 35px">{{ task.name }}</h1>
+      <div class="tag tag--medium task_status">{{ task.status }}</div>
+      <select
+        class="form-select select"
+        (ngModelChange)="dataChanged($event)"
+        [(ngModel)]="selectedOption"
+      >
+        <option [ngValue]="undefined" disabled>Altere o Status</option>
+        <option *ngFor="let o of selectStatus" [ngValue]="o.status">
+          {{ o.name }}
+        </option>
+      </select>
+    </div>
+    <h4 style="color: #888; margin-top: 30px">Descrição</h4>
+    <div class="card modal__desc">
+      <p>{{ task.description }}</p>
+    </div>
+    <h4 style="color: #888; margin-top: 30px">Atividade</h4>
+    <div class="card modal__activity">
+      <span style="color: #888">Ultima atualização:</span>
+      <span style="color: #888">{{ task.updatedAt }}</span>
+    </div>
+    <div class="modal__buttons">
+      <button
+        type="button"
+        class="btn btn-danger"
+        (click)="deleteTask(task.id)"
+      >
+        Excluir tarefa
+      </button>
+    </div>
+  </div>
+  <div
+    style="
+      width: 45%;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+    "
+  >
+    <div class="modal_box_right">
+      <h3 style="color: #888">Informações</h3>
+      <div class="modal__info">
+        <span style="color: #888">Criada em:</span>
+        <div>{{ task.createdAt }}</div>
+      </div>
+      <div class="modal__info">
+        <span style="color: #888">Prioridade:</span>
+        <div
+          [ngClass]="
+            task.priority == 0
+              ? 'tag tag--low'
+              : task.priority == 1
+              ? 'tag tag--medium'
+              : 'tag tag--high'
+          "
+        >
+          {{
+            task.priority == 0 ? "Baixa" : task.priority == 1 ? "Média" : "Alta"
+          }}
+        </div>
+      </div>
+      <div class="modal__info">
+        <span style="color: #888">Data Prevista:</span>
+        <div>{{ task.expectedDate }}</div>
+      </div>
+
+      <div class="modal__info">
+        <span style="color: #888"></span>
+        <div style="width: 110px; text-align: center;" [ngClass]="task.delayed ? 'tag tag--high' : 'dnone'">Vencido</div>
+      </div>
+    </div>
+    <div class="modal__buttons">
+      <button type="button" class="btn btn-dark" (click)="closeModal()">
+        Cancelar
+      </button>
+      <button
+        type="button"
+        class="btn btn-primary"
+        [disabled]="selectedOption == undefined"
+        (click)="saveChangesModal(selectedOption, task.id)"
+      >
+        Salvar
+      </button>
+    </div>
+  </div>
+</div>

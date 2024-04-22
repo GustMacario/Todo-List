@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gustavo\\Clone\\ToDo List\\Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\models\\todoresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\todoresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\utils\\enums\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\utils\\enums\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\interfaces\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\interfaces\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\models\\edittaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\edittaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\entities\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\entities\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\utils\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\utils\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\models\\todorequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\todorequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\utils\\validators\\todorequestmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\utils\\validators\\todorequestmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\interfaces\\services\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\interfaces\\services\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\interfaces\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\interfaces\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\entities\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\entities\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\app.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\app.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\utils\\responseutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\utils\\responseutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|d:\\gustavo\\clone\\todo list\\back\\todolist\\interfaces\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70AF94C-635B-457D-9EC1-456E57594A48}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\interfaces\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Services\\TodoService.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Services\\TodoService.cs",
+              "RelativeToolTip": "ToDoList\\Services\\TodoService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAiwE8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:45:17.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToDoRequestModelValidator.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Utils\\Validators\\ToDoRequestModelValidator.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Utils\\Validators\\ToDoRequestModelValidator.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Utils\\Validators\\ToDoRequestModelValidator.cs",
+              "RelativeToolTip": "ToDoList\\Utils\\Validators\\ToDoRequestModelValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:42:32.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Entities\\ToDo.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Entities\\ToDo.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Entities\\ToDo.cs",
+              "RelativeToolTip": "ToDoList\\Entities\\ToDo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:43:11.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoResponseModel.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Models\\ToDoResponseModel.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\ToDoResponseModel.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Models\\ToDoResponseModel.cs",
+              "RelativeToolTip": "ToDoList\\Models\\ToDoResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:23:36.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ToDoRequestModel.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Models\\ToDoRequestModel.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\ToDoRequestModel.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Models\\ToDoRequestModel.cs",
+              "RelativeToolTip": "ToDoList\\Models\\ToDoRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:21:25.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.db",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\app.db",
+              "RelativeDocumentMoniker": "ToDoList\\app.db",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\app.db",
+              "RelativeToolTip": "ToDoList\\app.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGGSURBVDhPY2SAgsry0vsMDP8VoFwsgPHBn38Mgd3d3RegAkDl//9DWSADSv7/\u002BvULJwbJNzXUvi8tLTWAagEDJihNFEhITBbg5ebYj2wI0QYICAgwTJ82heH79\u002B8CLEz/90OFEQDdC3uOnPm/69ApFDEYBqmFasN0wdXbDxh2HDzJ8O79B4a3794zrN9\u002BgOHc5RtQWUyAYQALExPDt2/fGUz0NBlMDbQYvn3/xsDCgtunGDJ//v5l\u002BP37F8Pff38Z/gHZf37/Zvjz5y9UFhNgGPDz508GUOI4cPQUw74jJxgYgZxTZ88DXfIDogANYBhgpKvBEObnxsDHw8XwF2jzsxdPGR49eczQ0TeR4cbN21BVCIDTc4FeLgyezjYMHz98ZGirKWf48O4dAwcHG1QWAXCHDhB8/QoMQKCK3KJSBlZWZpSUCwN4DVBXVWaoKMpnsLG0YOjtaGNQVMDMKngNAAFuLi6G8NBgKA8TEDSAEEDKzsXA7MyIJzsjg/8P2jt7FRkYGBgAmdPDqvBXzR4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-20T23:10:03.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Services\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Services\\ServiceBase.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Services\\ServiceBase.cs",
+              "RelativeToolTip": "ToDoList\\Services\\ServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:34:55.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IServiceBase.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Interfaces\\Services\\IServiceBase.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Interfaces\\Services\\IServiceBase.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Interfaces\\Services\\IServiceBase.cs",
+              "RelativeToolTip": "ToDoList\\Interfaces\\Services\\IServiceBase.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:34:46.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Interfaces\\Repositories\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Interfaces\\Repositories\\IRepositoryBase.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Interfaces\\Repositories\\IRepositoryBase.cs",
+              "RelativeToolTip": "ToDoList\\Interfaces\\Repositories\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:40:11.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Entities\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Entities\\AuditableEntity.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Entities\\AuditableEntity.cs",
+              "RelativeToolTip": "ToDoList\\Entities\\AuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:15:27.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:51:44.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ToDoRepository.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Repositories\\ToDoRepository.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Repositories\\ToDoRepository.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Repositories\\ToDoRepository.cs",
+              "RelativeToolTip": "ToDoList\\Repositories\\ToDoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:46:01.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IToDoService.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Interfaces\\Services\\IToDoService.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Interfaces\\Services\\IToDoService.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Interfaces\\Services\\IToDoService.cs",
+              "RelativeToolTip": "ToDoList\\Interfaces\\Services\\IToDoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:48:14.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controllers\\ToDoController.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "ToDoList\\Controllers\\ToDoController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwGAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:42:49.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDoStatus.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Utils\\Enums\\ToDoStatus.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Utils\\Enums\\ToDoStatus.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Utils\\Enums\\ToDoStatus.cs",
+              "RelativeToolTip": "ToDoList\\Utils\\Enums\\ToDoStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:44:40.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditTaskModel.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Models\\EditTaskModel.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\EditTaskModel.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Models\\EditTaskModel.cs",
+              "RelativeToolTip": "ToDoList\\Models\\EditTaskModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:27:09.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ToDoList\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ToDoList\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T23:19:47.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Utils\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Utils\\Enums\\Priority.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Utils\\Enums\\Priority.cs",
+              "RelativeToolTip": "ToDoList\\Utils\\Enums\\Priority.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:45:32.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ToDoList\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:41:23.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "ToDoList\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:29:28.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResponseUtil.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Utils\\ResponseUtil.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Utils\\ResponseUtil.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Utils\\ResponseUtil.cs",
+              "RelativeToolTip": "ToDoList\\Utils\\ResponseUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:58:25.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IToDoRepository.cs",
+              "DocumentMoniker": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Interfaces\\Repositories\\IToDoRepository.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Interfaces\\Repositories\\IToDoRepository.cs",
+              "ToolTip": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\Interfaces\\Repositories\\IToDoRepository.cs",
+              "RelativeToolTip": "ToDoList\\Interfaces\\Repositories\\IToDoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:48:43.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

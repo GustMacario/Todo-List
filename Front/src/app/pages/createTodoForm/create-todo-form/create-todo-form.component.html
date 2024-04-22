@@ -1,0 +1,26 @@
+<div class="container">
+    <form #taskForm="ngForm">
+        <div class="form-group">
+          <label for="nome">Nome da tarefa</label>
+          <input required class="form-control" id="nome" name="nome" placeholder="Exemplo: Criação endpoint tasks" [(ngModel)]="task.name">
+        </div>
+        <div class="form-group">
+            <label for="descricao">Descrição</label>
+            <input required class="form-control" id="descricao" name="descricao" rows="3" [(ngModel)]="task.description">
+        </div>
+        <div class="form-group">
+            <label for="dataPrevista">Data prevista</label>
+            <input required type="date" class="form-control" id="dataPrevista" name="dataPrevista" min="{{ currentDate | date:'yyyy-MM-dd' }}" [(ngModel)]="task.expectedDate">
+          </div>
+        <div class="form-group">
+          <label for="prioridade">Prioridade</label>
+          <select required class="form-control" id="prioridade" name="prioridade" [(ngModel)]="task.priority">
+            <option>Baixa</option>
+            <option>Média</option>
+            <option>Alta</option>
+          </select>
+        </div>
+      </form>
+      <button [disabled]="!taskForm.valid" (click)="createTask(task)" class="btn btn-success">Criar</button>
+      <button style="color: white;" (click)="goBack()" class="btn btn-dark">Voltar</button>
+</div>
