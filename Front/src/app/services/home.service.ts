@@ -6,7 +6,7 @@ import { CreateTodoRequest }  from '../types/CreateTodoRequest';
   providedIn: 'root'
 })
 export class HomeService {
-  url = "https://localhost:44352/api/";
+  url = "http://localhost:5286/api/";
   httpOptions = {
     headers: new HttpHeaders({"Content-Type": "application/json"})
   }
