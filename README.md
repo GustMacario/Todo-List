@@ -17,7 +17,7 @@ Para instalar o AngularCLI, execute <code>npm install -g @angular/cli</code>
 
 
 ### Instalação:
-* <code>git clone https://github.com/GustMacario/todo-list.git</code>
+* <code>git clone https://github.com/GustMacario/Todo-list.git</code>
 
 ### Inicialização:
 #### Para rodar o back-end:
