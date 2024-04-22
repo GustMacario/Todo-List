@@ -25,5 +25,6 @@ Com o terminal, entre na pasta Back/ToDoList e execute o seguinte comando:
 * <code>dotnet run</code> ou <code>dotnet watch run</code>
 
 #### Para rodar o front-end:
-Com o terminal, entre na pasta Front e execute o seguinte comando:
+Com o terminal, entre na pasta Front e execute os seguintes comandos:
+* <code>npm i</code>
 * <code>ng serve</code>
