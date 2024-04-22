@@ -2996,11 +2996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\gugan\\OneDrive\\Desktop\\Nova pasta\\Todo-list\\Back\\ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\ToDoList.csproj",
+      "projectPath": "C:\\Users\\gugan\\OneDrive\\Desktop\\Nova pasta\\Todo-list\\Back\\ToDoList\\ToDoList.csproj",
       "packagesPath": "C:\\Users\\gugan\\.nuget\\packages\\",
-      "outputPath": "D:\\Gustavo\\Clone\\ToDo List\\Back\\ToDoList\\obj\\",
+      "outputPath": "C:\\Users\\gugan\\OneDrive\\Desktop\\Nova pasta\\Todo-list\\Back\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gugan\\AppData\\Roaming\\NuGet\\NuGet.Config",
